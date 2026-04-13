@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there 👋 I'm Pelin Gülmez
 
 🎓 Computer Engineering Student  
