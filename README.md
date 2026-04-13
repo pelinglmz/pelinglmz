@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**pelinglmz/pelinglmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Pelin Gülmez
 
-Here are some ideas to get you started:
+🎓 Computer Engineering Student  
+💻 Interested in AI, Cyber Security and Networking  
+🚀 Passionate about building and learning new technologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technologies & Tools
+
+- Python  
+- C# / .NET  
+- Java  
+- SQL  
+- Git & GitHub  
+
+---
+
+## 📌 Featured Projects
+
+- 🔹 Signal Processing Analysis Project  
+- 🔹 Library Management System  
+- 🔹 Elastic SIEM Project  
+
+---
+
+## 🌱 Currently Learning
+
+- Artificial Intelligence  
+- Network Security  
+- Advanced Python  
+
+---
+
+## 📫 Contact Me
+
+- LinkedIn: https://linkedin.com/in/pelin-gülmez-89481a286
