@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-Computer Engineering student interested in artificial intelligence, cybersecurity, and backend development.  
+Computer Engineering student interested in artificial intelligence, cybersecurity, and networking.  
 I enjoy building real-world projects and continuously improving my technical skills.
 </p>
 
