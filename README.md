@@ -18,5 +18,5 @@ I enjoy building real-world projects and continuously improving my technical ski
 ---
 
 <p align="center">
-🔗 <a href="https://www.linkedin.com/in/peling%C3%BClmez-89481a286/">LinkedIn</a>
+🔗 <a href="[https://www.linkedin.com/in/peling%C3%BClmez-89481a286/](https://www.linkedin.com/in/pelin-g%C3%BClmez-89481a286/)">LinkedIn</a>
 </p>
