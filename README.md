@@ -12,7 +12,7 @@ I enjoy building real-world projects and continuously improving my technical ski
 ## 🛠️ Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,cs,dotnet,bash,linux,mysql,git" />
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,cs,dotnet,bash,linux,mysql,git,sql" />
 </p>
 
 ---
