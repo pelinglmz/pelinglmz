@@ -11,28 +11,17 @@ I enjoy exploring network infrastructures, securing systems, and building real-w
 
 ## 🛠️ Skills
 
-### 💻 Programming
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,cs,dotnet" />
-</p>
-
-### ⚙️ Tools & Systems
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,bash,git,docker,mysql" />
-</p>
-
-### 🌐 Networking & Cybersecurity
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,cloudflare,aws,docker" />
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,cs,dotnet,bash,linux,mysql,git,docker,aws,cloudflare" />
 </p>
 
 ---
 
 ## 🌐 Focus Areas
-- Computer Networks (TCP/IP, OSI Model)
-- Network Security & Cybersecurity
-- Cloud & Distributed Systems
-- Artificial Intelligence & Machine Learning
+
+<p align="center">
+Networking • Cybersecurity • Artificial Intelligence • Cloud Systems
+</p>
 
 ---
 
