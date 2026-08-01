@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Pelin+G%C3%BClmez;Computer+Engineering+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Pelin+G%C3%BClmez;Computer+Engineering+Student;Networking+%7C+Cybersecurity+%7C+AI+Enthusiast" />
 </h1>
 
 <p align="center">
-Computer Engineering student interested in artificial intelligence, cybersecurity, and networking.  
-I enjoy building real-world projects and continuously improving my technical skills.
+Computer Engineering student passionate about networking, cybersecurity, and artificial intelligence.  
+I enjoy exploring network infrastructures, securing systems, and building real-world projects while continuously improving my technical skills.
 </p>
 
 ---
@@ -12,11 +12,19 @@ I enjoy building real-world projects and continuously improving my technical ski
 ## 🛠️ Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,cs,dotnet,bash,linux,mysql,git,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,cs,dotnet,bash,linux,mysql,git,sql,cloudflare,aws,linux,docker" />
+</p>
+
+---
+
+## 🌐 Networking & Cybersecurity
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,bash,cloudflare,aws,docker,git" />
 </p>
 
 ---
 
 <p align="center">
-🔗 <a href="[https://www.linkedin.com/in/peling%C3%BClmez-89481a286/](https://www.linkedin.com/in/pelin-g%C3%BClmez-89481a286/)">LinkedIn</a>
+🔗 <a href="https://www.linkedin.com/in/pelin-g%C3%BClmez-89481a286/">LinkedIn</a>
 </p>
