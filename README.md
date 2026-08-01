@@ -25,23 +25,6 @@ Networking • Cybersecurity • Artificial Intelligence • Cloud Systems
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pelinglmz&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pelinglmz&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelinglmz&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 <p align="center">
 🔗 <a href="https://www.linkedin.com/in/pelin-g%C3%BClmez-89481a286/">LinkedIn</a>
 </p>
